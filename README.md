@@ -22,9 +22,9 @@ need to share large datasets.
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Participant 1       | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
+| Liz Ferguson        | Project Facilitator |
+| Ana Vaz             | Participant         |
+| James King          | Participant         |
 
 ## Planning
 
