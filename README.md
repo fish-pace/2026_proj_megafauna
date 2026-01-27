@@ -1,4 +1,4 @@
-# fpyy_proj_template
+# 2026_proj_fishzones_megafauna
 
 Template for starting Fish-PACE project repos. 
 
