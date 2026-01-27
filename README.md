@@ -1,8 +1,6 @@
-# 2026_proj_fishzones_megafauna
+# 2026_proj_megafauna
 
-Template for starting Fish-PACE project repos. 
-
-This repo is an example of how teams can structure their project repositories and format their project README.md file, but feel free to adapt as suits your needs.
+Find relationships between PACE data and OBIS megafauna distribution 
 
 **Folder Structure**
 
