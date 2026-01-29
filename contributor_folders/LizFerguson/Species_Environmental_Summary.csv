@@ -1,0 +1,10 @@
+,chlor_a_median,chlor_a_median,chlor_a_median,chlor_a_median,chlor_a_median,chlor_a_std,chlor_a_std,latitude,latitude,longitude,longitude
+,count,mean,std,min,max,mean,std,mean,std,mean,std
+common_name,,,,,,,,,,,
+Beaked whales,6,0.755,0.043,0.723,0.81,0.014,0.009,38.329,0.005,-73.519,0.007
+Blue whale,4,0.825,0.103,0.736,0.915,0.056,0.045,37.076,0.011,-74.629,0.003
+Common minke whale,21,0.666,0.112,0.486,0.847,0.027,0.019,37.903,0.463,-74.171,0.324
+Fin whale,151,0.671,0.168,0.285,1.31,0.027,0.027,37.988,0.63,-73.918,0.562
+Humpback whale,125,0.697,0.175,0.281,1.193,0.027,0.025,38.01,0.66,-73.911,0.635
+North Atlantic right whale,3,0.778,0.083,0.704,0.867,0.027,0.03,38.393,0.0,-73.936,0.0
+Sperm whale,21,0.645,0.2,0.275,0.922,0.024,0.018,37.754,0.391,-74.131,0.262
