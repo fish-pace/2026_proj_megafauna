@@ -1,0 +1,8 @@
+Species,N,Pearson_r,Pearson_p,Spearman_rho,Spearman_p
+Fin whale,151,-0.34469079051598667,1.4641732933117021e-05,-0.4825832515310971,3.5000356438878967e-10
+Humpback whale,124,-0.12829167637437988,0.15560700252093307,-0.06505963875505649,0.47282061350794224
+North Atlantic right whale,3,,,,
+Beaked whales,6,,,,
+Sperm whale,21,,,,
+Common minke whale,21,,,,
+Blue whale,4,,,,
