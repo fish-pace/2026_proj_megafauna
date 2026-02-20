@@ -4,13 +4,10 @@ Find relationships between PACE satellite data and cetacean distribution in the 
 
 **Folder Structure**
 
-* `contributor_folders` (optional) Each contributor can make a folder here and 
-push their work here during the week. This will allow everyone to see each others work but prevent any merge conflicts.
-* `final_notebooks` When the team develops shared final notebooks, they 
-can be shared here. Make sure to communicate so that you limit merge conflicts.
-* `scripts` Shared scripts or functions can be added here.
-* `data` Shared datasets can be shared here. Note, do not put large datasets on GitHub. Speak to the organizers if you 
-need to share large datasets. 
+
+* `contributor_folders` This is a staging area where our team members practiced!
+* `final_notebooks` Our final notebook for the time spent on Fish-PACE is here
+* `data` These were datasets that we used, or downloaded
 
 ## Project Name
 
@@ -24,9 +21,7 @@ Using NASA PACE satellite data (MOANA phytoplankton products) to characterize th
 
 * Initial idea: Explore whether PACE-derived phytoplankton community composition (prokaryote abundances) can reveal habitat partitioning among co-occurring cetacean species better than traditional chlorophyll-a alone
 * Slack channel: fp25_proj_megafauna
-* Project google drive: Add link
-* Ideation Presentation: Add link
-* Final presentation: Add link
+
 
 ## Collaborators
 
@@ -95,10 +90,11 @@ Species analyzed: Fin whale, Humpback whale, Common minke whale, Sperm whale, No
 - Fin and Humpback whales show the highest niche overlap across most variables (shelf-edge generalists), while Common minke whales show zero Prochlorococcus overlap (coastal specialist).
 - Carbon overlap is consistently higher than prokaryote overlap across species pairs, confirming that total biomass metrics mask ecologically meaningful differences in phytoplankton community structure.
 - PCA and hierarchical clustering broadly confirm the Sperm whale as an outlier in multivariate environmental space, with Fin and Humpback grouping together.
+- Environmental niche indicates different use by species within offshore region.
 
 ## Lessons Learned
 
-- Add link / fill in after final presentation
+- There is so much potential for MOANA!
 
 ## References
 
